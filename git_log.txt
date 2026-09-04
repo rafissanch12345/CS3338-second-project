@@ -1,0 +1,45 @@
+commit c2ee8a93b54a95688b8999bba675d5ce05571356
+Merge: eebdbd8 5d45bb6
+Author: Rafael Sanchez <rafissanch12345@gmail.com>
+Date:   Fri Sep 4 11:22:20 2026 -0700
+
+    Resolve favorite details merge conflict
+
+commit 5d45bb6adc66f80a83ce88fbd76a4964fe7ecca0
+Author: Rafael Sanchez <rafissanch12345@gmail.com>
+Date:   Fri Sep 4 11:21:55 2026 -0700
+
+    Add favorite game
+
+commit eebdbd8d9cac1e3d732f8e4a41ba506395c32b89
+Author: Rafael Sanchez <rafissanch12345@gmail.com>
+Date:   Fri Sep 4 11:21:40 2026 -0700
+
+    Add favorite food
+
+commit 1d7b6a23d926d6b9ba44756acf037bf5a2a77887
+Author: Rafael Sanchez <rafissanch12345@gmail.com>
+Date:   Fri Sep 4 11:21:13 2026 -0700
+
+    Add project README
+
+commit 47a3c4aaafca1f50e3a3d8bc059103a7a06b2ed2
+Merge: 1d2bfc0 461a51c
+Author: rafissanch12345 <152130372+rafissanch12345@users.noreply.github.com>
+Date:   Fri Sep 4 11:20:36 2026 -0700
+
+    Merge pull request #1 from rafissanch12345/info-fill
+    
+    Fill in personal information
+
+commit 461a51c4e45e5be04c1e498576a588a892f7dfda
+Author: Rafael Sanchez <rafissanch12345@gmail.com>
+Date:   Fri Sep 4 11:13:43 2026 -0700
+
+    Fill in personal information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
